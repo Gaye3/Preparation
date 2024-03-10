@@ -14,8 +14,6 @@ public class CompareStringByChar {
 		}
 	}
 	
-	public static void main(String[] args) {
-		CompareStringByChar.compare("gmail", "yaho");
-	}
+	//Removing the main method as per comments
 
 }
