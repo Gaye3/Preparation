@@ -15,5 +15,5 @@ public class CompareStringByChar {
 	}
 	
 	//Removing the main method as per comments
-
+	//Compare working directory file with staging directory
 }
