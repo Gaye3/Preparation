@@ -10,5 +10,9 @@ public class InheritanceParentClass {
 	public void end() {
 		System.out.println("Parent class method ending");
 	}
+	
+	public void masterBranch() {
+		System.out.println("Master branch method");
+	}
 
 }
