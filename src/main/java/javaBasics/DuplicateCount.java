@@ -17,7 +17,7 @@ public class DuplicateCount {
 		for(char i : str.toCharArray()) {
 			
 			if (i != ' ') {
-				map.put(i, map.getOrDefault(i, 0)+1);
+				//map.put(i, map.getOrDefault(i, 0)+1);
 			}
 			
 		}
